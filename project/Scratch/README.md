@@ -31,7 +31,7 @@
 3. A+B键用于查看比分；
 4. 长按A+B键5秒以上退出当前游戏。
 
-![LittleRedFlower_V0.03](pic\LittleRedFlower_V0.03.gif)
+![LittleRedFlower_V0.03](./pic/LittleRedFlower_V0.03.gif)
 
 
 
